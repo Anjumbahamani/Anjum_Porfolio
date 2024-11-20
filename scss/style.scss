@@ -1377,13 +1377,13 @@ textarea.form-control {
 	h1.big{
 		position: absolute;
 		top: 0px;
-		left: 0;
+		left: 1;
 		font-size: 7vw;
 		color: rgba(255,255,255,.1);
 		z-index: -1;
 		font-weight: 900;
 		&.big-2{
-			right: 0;
+			right: 1;
 		}
 	}
 	h2{
